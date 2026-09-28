@@ -1,17 +1,155 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width="256" height="256" viewBox="0 0 256 256">
-  <rect x="8" y="8" width="240" height="240" rx="44" ry="44" fill="#2f6fd6"/>
-  <rect x="8" y="128" width="240" height="120" rx="44" ry="44" fill="#2764c0"/>
-  <rect x="8" y="128" width="240" height="40" fill="#2764c0"/>
-  <path d="M60 56 h136 a24 24 0 0 1 24 24 v72 a24 24 0 0 1 -24 24 h-84 l-40 34 v-34 h-12 a24 24 0 0 1 -24 -24 v-72 a24 24 0 0 1 24 -24 z" fill="#ffffff"/>
-  <circle cx="128" cy="108" r="34" fill="#ffc61a"/>
-  <rect x="112" y="132" width="32" height="20" rx="5" ry="5" fill="#e8a200"/>
-  <rect x="116" y="150" width="24" height="9" rx="4" ry="4" fill="#c98a00"/>
-  <g stroke="#ffc61a" stroke-width="7" stroke-linecap="round">
-    <line x1="128" y1="52" x2="128" y2="40"/>
-    <line x1="170" y1="66" x2="179" y2="57"/>
-    <line x1="86" y1="66" x2="77" y2="57"/>
-    <line x1="182" y1="108" x2="194" y2="108"/>
-    <line x1="74" y1="108" x2="62" y2="108"/>
-  </g>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 15.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="96px"
+   height="96px"
+   viewBox="0 0 96 96"
+   enable-background="new 0 0 96 96"
+   xml:space="preserve"
+   sodipodi:docname="SimpleJabber.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs4" /><sodipodi:namedview
+   id="namedview4"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="9.3125"
+   inkscape:cx="47.946309"
+   inkscape:cy="48"
+   inkscape:window-width="2048"
+   inkscape:window-height="1080"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="layer1" />
+<g
+   id="g4">
+	<path
+   opacity="0.4"
+   enable-background="new    "
+   d="M88,49c0,29.635-10.361,40-40,40C18.367,89,8,78.635,8,49   C8,19.367,18.367,9,48,9C77.637,9,88,19.367,88,49z"
+   id="path1" />
+	
+		<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="103.6758"
+   y1="1892.4043"
+   x2="103.6758"
+   y2="1972.4043"
+   gradientTransform="matrix(1 0 0 1 -55.6753 -1884.7568)">
+		<stop
+   offset="0"
+   style="stop-color:#0077CD"
+   id="stop1" />
+		<stop
+   offset="1"
+   style="stop-color:#003F9A"
+   id="stop2" />
+	</linearGradient>
+	<path
+   fill="url(#SVGID_1_)"
+   d="M88,48c0,29.635-10.361,40-40,40C18.367,88,8,77.635,8,48C8,18.367,18.367,8,48,8   C77.637,8,88,18.367,88,48z"
+   id="path2" />
+	
+		<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="103.6758"
+   y1="1892.9941"
+   x2="103.6758"
+   y2="1972.2388"
+   gradientTransform="matrix(1 0 0 1 -55.6753 -1884.7568)">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF"
+   id="stop3" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop4" />
+	</linearGradient>
+	<path
+   opacity="0.15"
+   fill="url(#SVGID_2_)"
+   enable-background="new    "
+   d="M48,8C18.367,8,8,18.367,8,48c0,29.635,10.367,40,40,40   c29.639,0,40-10.365,40-40C88,18.367,77.637,8,48,8z M48,87C18.842,87,9,77.158,9,48S18.842,9,48,9c29.16,0,39,9.842,39,39   S77.16,87,48,87z"
+   id="path4" />
+</g>
+<rect
+   fill="none"
+   width="96"
+   height="96"
+   id="rect4" />
+<g
+   inkscape:groupmode="layer"
+   id="layer1"
+   inkscape:label="Layer 1"
+   transform="matrix(0.375,0,0,0.375,30.188,22.906)"><path
+     d=""
+     fill="#ffffff"
+     id="path3" /><circle
+     cx="47.5"
+     cy="58.5"
+     r="34"
+     fill="#ffc61a"
+     id="circle3" /><rect
+     x="31.5"
+     y="82.5"
+     width="32"
+     height="20"
+     rx="5"
+     ry="5"
+     fill="#e8a200"
+     id="rect4-3" /><rect
+     x="35.5"
+     y="100.5"
+     width="24"
+     height="9"
+     rx="4"
+     ry="4"
+     fill="#c98a00"
+     id="rect5" /><g
+     stroke="#ffc61a"
+     stroke-width="7"
+     stroke-linecap="round"
+     id="g9"
+     transform="translate(-80.5,-49.5)"><line
+       x1="128"
+       y1="52"
+       x2="128"
+       y2="40"
+       id="line5" /><line
+       x1="170"
+       y1="66"
+       x2="179"
+       y2="57"
+       id="line6" /><line
+       x1="86"
+       y1="66"
+       x2="77"
+       y2="57"
+       id="line7" /><line
+       x1="182"
+       y1="108"
+       x2="194"
+       y2="108"
+       id="line8" /><line
+       x1="74"
+       y1="108"
+       x2="62"
+       y2="108"
+       id="line9" /></g></g></svg>
